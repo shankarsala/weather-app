@@ -61,7 +61,6 @@ A simple and responsive Weather App built using **HTML, CSS, and JavaScript**. T
 **Shankar Sala**
 
 - GitHub: https://github.com/shankarsala
-- Portfolio: https://shankarsala.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/shankarsala/
 
 ---
